@@ -1,0 +1,180 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2017.10.18"]
+[Round "-"]
+[White "abcdave"]
+[Black "utopa"]
+[Result "1-0"]
+[WhiteElo "1400"]
+[BlackElo "800"]
+[TimeControl "1/604800"]
+[EndDate "2017.10.26"]
+[Termination "abcdave won on time"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2017.10.18"]
+[Round "-"]
+[White "agrazi"]
+[Black "abcdave"]
+[Result "0-1"]
+[WhiteElo "1206"]
+[BlackElo "1494"]
+[TimeControl "1/432000"]
+[EndDate "2017.12.03"]
+[Termination "abcdave won by checkmate"]
+
+1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qc5 e5 5. Qd5 Nf6 6. Qb5 Nxe4 7. Bd3 Nd6 8.
+Qd5 Qf6 9. Nh3 Nb4 10. Qb3 Nxd3+ 11. Qxd3 e4 12. Qc3 Qg6 13. O-O Be7 14. Nf4 Qf6
+15. Nd5 Qxc3 16. bxc3 Rb8 17. Bf4 b6 18. Nc7+ Kd8 19. Nd5 g5 20. Be5 Bb7 21. Ne3
+f6 22. Bd4 Rc8 23. Nd2 Rf8 24. g4 Nb5 25. c4 Nxd4 26. Rae1 Bb4 27. Nb3 Bxe1 28.
+Nxd4 Bd2 29. Nef5 Rxc4 30. Nb5 Rxc2 31. Nxa7 Rxa2 32. Nb5 Ba6 33. Nbd6 Bxf1 34.
+Kxf1 Bf4 35. Nxe4 Bxh2 36. Ng7 b5 37. Nc3 Ra1+ 38. Kg2 b4 39. Nf5 bxc3 40. Kxh2
+c2 41. Ne3 c1=Q 42. Kg3 Ra3 43. Kg2 Rh8 44. Nf1 Ra1 45. Ng3 h5 46. gxh5 Rxh5 47.
+Nxh5 Qh1+ 48. Kg3 Rg1# 0-1
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2017.11.07"]
+[Round "-"]
+[White "abcdave"]
+[Black "hetverschil"]
+[Result "0-1"]
+[WhiteElo "1335"]
+[BlackElo "1384"]
+[TimeControl "1/432000"]
+[EndDate "2017.12.17"]
+[Termination "hetverschil won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. Bg5 h6 7. Bh4 d6 8. c3 a6
+9. d4 Ba7 10. Re1 exd4 11. cxd4 Na5 12. Bd3 Bg4 13. e5 dxe5 14. dxe5 g5 15. Qd2
+Bxf3 16. Bxg5 Ne4 17. Bxe4 Bxe4 18. Qxd8 Raxd8 19. Bxd8 Bxg2 20. Kxg2 Rxd8 21.
+Nc3 Rd2 22. Nd1 Kf8 23. Rc1 Nc6 24. Kg3 Bd4 25. f4 Kg7 26. Kg4 Rxh2 27. a4 Bxb2
+28. Nxb2 Rxb2 29. Rc4 a5 30. Kf5 Ne7+ 31. Ke4 c6 32. Rg1+ Kh7 33. f5 Re2+ 34.
+Kf4 Nd5+ 35. Kg3 Rxe5 36. Rf1 Ne3 37. Rcc1 Nxf1+ 38. Rxf1 f6 39. Kf4 b5 40. axb5
+cxb5 41. Rf3 a4 42. Rg3 b4 43. Rg6 b3 44. Rxf6 b2 0-1
+
+[Event "payback"]
+[Site "Chess.com"]
+[Date "2017.12.04"]
+[Round "-"]
+[White "abcdave"]
+[Black "agrazi"]
+[Result "1-0"]
+[WhiteElo "1394"]
+[BlackElo "1191"]
+[TimeControl "1/172800"]
+[EndDate "2017.12.27"]
+[Termination "abcdave won by resignation"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 Bd7 5. Bxf4 Be7 6. Nc3 Nc6 7. Qd2 g5 8. Bxg5
+h6 9. Be3 Bg4 10. O-O-O Be6 11. d5 Qd7 12. dxe6 Qxe6 13. Bb5 a6 14. Bxc6+ bxc6
+15. Nd4 Qc4 16. Rhf1 Rh7 17. Kb1 O-O-O 18. Qf2 Rg7 19. g4 Rf8 20. h4 Rxg4 21.
+Qf5+ Kb8 22. Qxg4 Nf6 23. Qf4 d5 24. Qe5 Bd8 25. Bxh6 Ng4 26. Qf4 Rg8 27. Bg5
+Bxg5 28. hxg5 Rf8 29. Qxg4 1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2017.12.28"]
+[Round "-"]
+[White "agrazi"]
+[Black "abcdave"]
+[Result "0-1"]
+[WhiteElo "1179"]
+[BlackElo "1431"]
+[TimeControl "1/172800"]
+[EndDate "2018.01.08"]
+[Termination "abcdave won by resignation"]
+
+1. e4 e5 2. d3 Nf6 3. Be3 c6 4. Nf3 d6 5. Be2 Bg4 6. Nbd2 Nbd7 7. c3 Be7 8. Qb3
+b6 9. Ng5 O-O 10. Qd1 Bxe2 11. Qxe2 d5 12. O-O h6 13. Nh3 Nc5 14. Rab1 Rc8 15.
+b4 Na4 16. Rfc1 d4 17. Bxh6 Nxc3 18. Rxc3 dxc3 19. Qe3 gxh6 20. Qg3+ Kh7 21.
+Ng5+ hxg5 22. Qxg5 Qxd3 23. Qh4+ Kg7 24. Qg5+ Kh8 25. Qh6+ Nh7 26. Nf3 Qxb1+ 0-1
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2018.01.08"]
+[Round "-"]
+[White "abcdave"]
+[Black "agrazi"]
+[Result "1-0"]
+[WhiteElo "1458"]
+[BlackElo "1169"]
+[TimeControl "1/172800"]
+[EndDate "2018.01.31"]
+[Termination "abcdave won by resignation"]
+
+1. e4 b6 2. d4 Bb7 3. Nc3 Nf6 4. Bd3 d5 5. e5 Nfd7 6. Nf3 e6 7. O-O Nc6 8. Re1
+h6 9. a3 Be7 10. Bd2 O-O 11. b4 a6 12. Qb1 b5 13. Ne2 Qb8 14. a4 Re8 15. axb5
+axb5 16. Bxb5 Rxa1 17. Qxa1 Qa8 18. Qb2 Qa7 19. Ra1 Qb8 20. c3 Nb6 21. Bd3 Qd8
+22. Qc2 Kh8 23. b5 Qd7 24. bxc6 Bxc6 25. Ng3 Ra8 26. Rxa8+ Bxa8 27. Nh5 Qa4 28.
+Qb1 Bc6 29. g3 Be8 30. Nh4 f6 31. exf6 Bf8 32. Bg6 Nc4 33. Bf4 Na3 34. Qd3 Bb5
+35. Qd2 Nc4 36. Qe1 Bd7 37. fxg7+ Bxg7 38. Nxg7 Kxg7 39. Be5+ Kf8 40. Bxc7 Qb3
+41. Bf4 Kg7 42. Bxh6+ Kxh6 43. Qc1+ Kg7 44. Qf4 Qd1+ 45. Kg2 Qd2 46. Qf7+ Kh6
+47. Qh7+ Kg5 48. Nf3+ 1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2018.01.20"]
+[Round "-"]
+[White "Tomi7771"]
+[Black "abcdave"]
+[Result "0-1"]
+[WhiteElo "811"]
+[BlackElo "1463"]
+[TimeControl "1/432000"]
+[EndDate "2018.02.17"]
+[Termination "abcdave won by resignation"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 Bf5 4. Ne2 e6 5. Ng3 Bg4 6. f3 Bh5 7. Nc3 Bb4 8. a3
+Bxc3+ 9. bxc3 Bg6 10. h4 h5 11. Rb1 b6 12. Bb5+ Nbd7 13. Qe2 O-O 14. Bc6 Rb8 15.
+O-O Re8 16. Bg5 Qc8 17. e4 dxe4 18. fxe4 Rf8 19. e5 Ng4 20. Ne4 Bxe4 21. Bxd7
+Qxd7 22. Qxe4 f6 23. exf6 Nxf6 24. Qg6 Nh7 25. Bf4 Rf6 26. Qxh5 Rbf8 27. Be5 Rf5
+28. Rxf5 Rxf5 29. Qe2 Qe7 30. g4 Rf8 31. g5 Qxa3 32. Qc4 Qe7 33. Bxc7 Rc8 34.
+Re1 Nf8 35. d5 Rxc7 36. Qd4 Rd7 37. Re5 Qa3 38. h5 Qc1+ 39. Kg2 Qxc2+ 40. Kg3
+Rc7 41. dxe6 Rxc3+ 42. Kf4 Rc4 43. Qe4 Rxe4+ 44. Rxe4 Qc7+ 45. Kf5 g6+ 46. hxg6
+Kg7 47. e7 Qd7+ 48. Kf4 Nxg6+ 49. Kf3 Nxe7 50. Re3 Nf5 51. Re5 Kg6 0-1
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2018.02.18"]
+[Round "-"]
+[White "abcdave"]
+[Black "Tomi7771"]
+[Result "0-1"]
+[WhiteElo "1352"]
+[BlackElo "1094"]
+[TimeControl "1/432000"]
+[EndDate "2018.02.28"]
+[Termination "Tomi7771 won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Bc4 b5 5. Bxf7+ Kxf7 6. Nxd4 Qh4 7. Qf3+ Nf6
+8. Nf5 Qxe4+ 9. Qxe4 Nxe4 10. d3 Nf6 11. O-O d5 12. Re1 Bxf5 13. Rxe5 Bd7 14.
+Bg5 Bd6 15. Bxf6 Kxf6 16. Rxd5 Bc6 17. Rh5 Rae8 18. Nc3 b4 19. Ne4+ Bxe4 20.
+dxe4 Rxe4 21. g3 Be5 22. c3 bxc3 23. bxc3 g6 24. Rh3 Ra4 25. Rc1 Rxa2 26. f4 Bd6
+27. Rf1 a5 28. g4 a4 29. Kh1 a3 30. c4 Rc2 31. Rh6 a2 32. f5 Ra8 33. fxg6+ Kg5
+34. Rh5+ Kxg4 35. Rhf5 a1=Q 36. g7 Rxh2+ 37. Kg1 Qxg7 38. Rf7 Qd4+ 39. R7f2 Ra1
+0-1
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2018.02.28"]
+[Round "-"]
+[White "Tomi7771"]
+[Black "abcdave"]
+[Result "0-1"]
+[WhiteElo "1096"]
+[BlackElo "1376"]
+[TimeControl "1/432000"]
+[EndDate "2018.03.24"]
+[Termination "abcdave won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. a3 Be7 5. Nd5 Nxe4 6. d4 d6 7. Bb5 Bd7 8. O-O
+O-O 9. Re1 Bf5 10. Bxc6 bxc6 11. Nxe7+ Qxe7 12. Qd3 Qf6 13. Qa6 Qg6 14. dxe5 Bh3
+15. g3 Bg4 16. Nh4 Qe6 17. Rxe4 g5 18. Bxg5 dxe5 19. Qa4 Bf5 20. Rc4 f6 21. Rxc6
+Qd7 22. Qc4+ Rf7 23. Rxc7 Qxc7 24. Qxc7 Rxc7 25. Bxf6 Bxc2 26. Bxe5 Rd7 27. Re1
+Rd3 28. a4 Bxa4 29. Bc3 Bc6 30. b4 Rxc3 31. Nf5 Kf8 32. Nd4 Bb7 33. Kf1 Bd5 34.
+Ne6+ Kg8 35. Nf4 Bc4+ 36. Kg1 Rb8 37. Re7 Rxb4 38. Rxa7 Rb1+ 39. Kg2 Bf1+ 40.
+Kg1 Bh3# 0-1
