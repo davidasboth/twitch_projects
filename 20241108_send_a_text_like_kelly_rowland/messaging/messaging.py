@@ -1,33 +1,61 @@
 import xlwings as xw
+import http.client
+import json
 
-
-def main():
-    pass
-
-@xw.func
 def send_message():
 
+    # read data from Excel sheet
     INPUT_CELL = "A1"
     DEBUG_OUTPUT_CELL = "A5"
+    SMS_OUTPUT_CELL = "A6"
+    
+    # setup
+    SENDER = "KellyR"
 
-    # hard code phone number for now
-    number = "123456"
+    JWT = ""
+    with open("C:\\git\\twitch_projects\\20241108_send_a_text_like_kelly_rowland\\JWT.txt", "r") as f:
+        JWT = f.read()
 
+    NUMBER = ""
+    with open("C:\\git\\twitch_projects\\20241108_send_a_text_like_kelly_rowland\\phone_number.txt", "r") as f:
+        NUMBER = f.read()
+
+    # read the message
     wb = xw.Book.caller()
     sheet = wb.sheets[0]
 
-    # read the message
     message = sheet[INPUT_CELL].value
 
     # if sheet is empty, Python registers it as None
     if message:
         # debug output
-        sheet[DEBUG_OUTPUT_CELL].value = f"Sending '{message}' to {number}"
+        sheet[DEBUG_OUTPUT_CELL].value = f"Sending '{message}'..."
 
-        # only use credits if there is a message to send
+        # message sending bit
+        conn = http.client.HTTPSConnection("api.thesmsworks.co.uk")
+
+        payload = json.dumps({
+            "sender": SENDER,
+            "destination": NUMBER,
+            "content": message
+        })
+
+        headers = {
+            'Content-Type': 'application/json',
+            'Authorization': JWT
+        }
+
+        conn.request("POST", "/v1/message/send", payload, headers)
+
+        res = conn.getresponse()
+
+        data = res.read()
+
+        response_string = data.decode("utf-8")
+
+        sheet[SMS_OUTPUT_CELL].value = response_string
+
+    # only use credits if there is a message to send
     else:
         sheet[DEBUG_OUTPUT_CELL].value = "Nothing happened. No message to send!"
-
-if __name__ == "__main__":
-    xw.Book("messaging.xlsm").set_mock_caller()
-    main()
+        sheet[SMS_OUTPUT_CELL].value = ""
