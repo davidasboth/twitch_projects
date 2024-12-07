@@ -1,0 +1,602 @@
+[
+  {
+    "endTime": "2020-11-22 20:24",
+    "artistName": "Bill Evans",
+    "trackName": "Peace Piece",
+    "msPlayed": 320470
+  },
+  {
+    "endTime": "2020-11-30 02:35",
+    "artistName": "Bill Evans",
+    "trackName": "Someday My Prince Will Come",
+    "msPlayed": 311622
+  },
+  {
+    "endTime": "2020-12-15 02:15",
+    "artistName": "Thelonious Monk",
+    "trackName": "Epistrophy",
+    "msPlayed": 67495
+  },
+  {
+    "endTime": "2020-12-21 18:59",
+    "artistName": "Miles Davis",
+    "trackName": "Flamenco Sketches",
+    "msPlayed": 299240
+  },
+  {
+    "endTime": "2020-12-30 04:14",
+    "artistName": "Bill Evans",
+    "trackName": "My Foolish Heart",
+    "msPlayed": 399126
+  },
+  {
+    "endTime": "2020-12-31 09:12",
+    "artistName": "Miles Davis",
+    "trackName": "All Blues",
+    "msPlayed": 344263
+  },
+  {
+    "endTime": "2020-11-12 06:59",
+    "artistName": "John Coltrane",
+    "trackName": "Naima",
+    "msPlayed": 216720
+  },
+  {
+    "endTime": "2020-11-09 22:03",
+    "artistName": "Thelonious Monk",
+    "trackName": "Ruby, My Dear",
+    "msPlayed": 388908
+  },
+  {
+    "endTime": "2020-11-16 05:57",
+    "artistName": "Miles Davis",
+    "trackName": "Blue in Green",
+    "msPlayed": 318519
+  },
+  {
+    "endTime": "2020-11-01 02:29",
+    "artistName": "Bill Evans",
+    "trackName": "Waltz for Debby",
+    "msPlayed": 121334
+  },
+  {
+    "endTime": "2020-11-17 19:38",
+    "artistName": "Charlie Parker",
+    "trackName": "Scrapple from the Apple",
+    "msPlayed": 73927
+  },
+  {
+    "endTime": "2020-12-10 03:42",
+    "artistName": "Miles Davis",
+    "trackName": "Blue in Green",
+    "msPlayed": 373025
+  },
+  {
+    "endTime": "2020-11-18 04:08",
+    "artistName": "Thelonious Monk",
+    "trackName": "Epistrophy",
+    "msPlayed": 72103
+  },
+  {
+    "endTime": "2020-12-03 15:59",
+    "artistName": "Miles Davis",
+    "trackName": "Blue in Green",
+    "msPlayed": 203573
+  },
+  {
+    "endTime": "2020-12-23 07:37",
+    "artistName": "Miles Davis",
+    "trackName": "Blue in Green",
+    "msPlayed": 293482
+  },
+  {
+    "endTime": "2020-11-23 12:10",
+    "artistName": "Miles Davis",
+    "trackName": "Flamenco Sketches",
+    "msPlayed": 221990
+  },
+  {
+    "endTime": "2020-11-28 07:50",
+    "artistName": "Bill Evans",
+    "trackName": "Someday My Prince Will Come",
+    "msPlayed": 293462
+  },
+  {
+    "endTime": "2020-12-29 11:50",
+    "artistName": "Miles Davis",
+    "trackName": "Flamenco Sketches",
+    "msPlayed": 141611
+  },
+  {
+    "endTime": "2020-12-20 21:39",
+    "artistName": "Miles Davis",
+    "trackName": "All Blues",
+    "msPlayed": 251949
+  },
+  {
+    "endTime": "2020-11-04 07:43",
+    "artistName": "Miles Davis",
+    "trackName": "Flamenco Sketches",
+    "msPlayed": 345029
+  },
+  {
+    "endTime": "2020-12-25 13:16",
+    "artistName": "Charlie Parker",
+    "trackName": "Scrapple from the Apple",
+    "msPlayed": 65432
+  },
+  {
+    "endTime": "2020-12-31 11:34",
+    "artistName": "Bill Evans",
+    "trackName": "Someday My Prince Will Come",
+    "msPlayed": 130918
+  },
+  {
+    "endTime": "2020-11-03 18:40",
+    "artistName": "John Coltrane",
+    "trackName": "Giant Steps",
+    "msPlayed": 376389
+  },
+  {
+    "endTime": "2020-12-09 00:57",
+    "artistName": "Charlie Parker",
+    "trackName": "Yardbird Suite",
+    "msPlayed": 161132
+  },
+  {
+    "endTime": "2020-11-10 20:45",
+    "artistName": "Miles Davis",
+    "trackName": "All Blues",
+    "msPlayed": 123913
+  },
+  {
+    "endTime": "2020-12-05 05:01",
+    "artistName": "Miles Davis",
+    "trackName": "All Blues",
+    "msPlayed": 223584
+  },
+  {
+    "endTime": "2020-11-17 16:33",
+    "artistName": "Charlie Parker",
+    "trackName": "Ko-Ko",
+    "msPlayed": 78270
+  },
+  {
+    "endTime": "2020-11-06 00:04",
+    "artistName": "Charlie Parker",
+    "trackName": "Scrapple from the Apple",
+    "msPlayed": 384495
+  },
+  {
+    "endTime": "2020-12-03 05:48",
+    "artistName": "Miles Davis",
+    "trackName": "All Blues",
+    "msPlayed": 265296
+  },
+  {
+    "endTime": "2020-12-17 14:59",
+    "artistName": "Miles Davis",
+    "trackName": "Blue in Green",
+    "msPlayed": 238296
+  },
+  {
+    "endTime": "2020-12-26 01:56",
+    "artistName": "Miles Davis",
+    "trackName": "All Blues",
+    "msPlayed": 267791
+  },
+  {
+    "endTime": "2020-11-24 07:34",
+    "artistName": "John Coltrane",
+    "trackName": "Blue Train",
+    "msPlayed": 224110
+  },
+  {
+    "endTime": "2020-11-04 19:51",
+    "artistName": "Thelonious Monk",
+    "trackName": "Epistrophy",
+    "msPlayed": 336933
+  },
+  {
+    "endTime": "2020-12-31 16:52",
+    "artistName": "Miles Davis",
+    "trackName": "All Blues",
+    "msPlayed": 213999
+  },
+  {
+    "endTime": "2020-12-13 16:25",
+    "artistName": "John Coltrane",
+    "trackName": "My Favorite Things",
+    "msPlayed": 213670
+  },
+  {
+    "endTime": "2020-12-01 19:15",
+    "artistName": "Miles Davis",
+    "trackName": "So What",
+    "msPlayed": 333842
+  },
+  {
+    "endTime": "2020-12-01 14:50",
+    "artistName": "Thelonious Monk",
+    "trackName": "Blue Monk",
+    "msPlayed": 223960
+  },
+  {
+    "endTime": "2020-12-14 17:57",
+    "artistName": "Charlie Parker",
+    "trackName": "Ko-Ko",
+    "msPlayed": 346496
+  },
+  {
+    "endTime": "2020-12-25 23:55",
+    "artistName": "Charlie Parker",
+    "trackName": "Ornithology",
+    "msPlayed": 90904
+  },
+  {
+    "endTime": "2020-11-15 10:58",
+    "artistName": "Charlie Parker",
+    "trackName": "Ornithology",
+    "msPlayed": 94305
+  },
+  {
+    "endTime": "2020-12-31 23:35",
+    "artistName": "Miles Davis",
+    "trackName": "All Blues",
+    "msPlayed": 62482
+  },
+  {
+    "endTime": "2020-12-24 07:26",
+    "artistName": "Thelonious Monk",
+    "trackName": "Epistrophy",
+    "msPlayed": 139896
+  },
+  {
+    "endTime": "2020-11-15 04:42",
+    "artistName": "John Coltrane",
+    "trackName": "My Favorite Things",
+    "msPlayed": 99713
+  },
+  {
+    "endTime": "2020-12-31 15:40",
+    "artistName": "Thelonious Monk",
+    "trackName": "Straight, No Chaser",
+    "msPlayed": 255973
+  },
+  {
+    "endTime": "2020-12-05 14:37",
+    "artistName": "Miles Davis",
+    "trackName": "Blue in Green",
+    "msPlayed": 394316
+  },
+  {
+    "endTime": "2020-12-01 18:56",
+    "artistName": "Bill Evans",
+    "trackName": "My Foolish Heart",
+    "msPlayed": 334276
+  },
+  {
+    "endTime": "2020-12-17 03:07",
+    "artistName": "Miles Davis",
+    "trackName": "So What",
+    "msPlayed": 376597
+  },
+  {
+    "endTime": "2020-11-23 05:36",
+    "artistName": "Charlie Parker",
+    "trackName": "Donna Lee",
+    "msPlayed": 125716
+  },
+  {
+    "endTime": "2020-12-15 00:36",
+    "artistName": "Miles Davis",
+    "trackName": "All Blues",
+    "msPlayed": 79872
+  },
+  {
+    "endTime": "2020-12-10 05:38",
+    "artistName": "Thelonious Monk",
+    "trackName": "Blue Monk",
+    "msPlayed": 202463
+  },
+  {
+    "endTime": "2020-11-04 22:55",
+    "artistName": "Miles Davis",
+    "trackName": "Freddie Freeloader",
+    "msPlayed": 309319
+  },
+  {
+    "endTime": "2020-11-23 04:36",
+    "artistName": "Thelonious Monk",
+    "trackName": "Straight, No Chaser",
+    "msPlayed": 325050
+  },
+  {
+    "endTime": "2020-12-25 23:12",
+    "artistName": "Miles Davis",
+    "trackName": "All Blues",
+    "msPlayed": 172112
+  },
+  {
+    "endTime": "2020-11-09 06:30",
+    "artistName": "John Coltrane",
+    "trackName": "A Love Supreme",
+    "msPlayed": 101820
+  },
+  {
+    "endTime": "2020-11-15 00:15",
+    "artistName": "John Coltrane",
+    "trackName": "Blue Train",
+    "msPlayed": 315700
+  },
+  {
+    "endTime": "2020-12-06 06:53",
+    "artistName": "Thelonious Monk",
+    "trackName": "Epistrophy",
+    "msPlayed": 60173
+  },
+  {
+    "endTime": "2020-11-18 07:52",
+    "artistName": "John Coltrane",
+    "trackName": "My Favorite Things",
+    "msPlayed": 296217
+  },
+  {
+    "endTime": "2020-11-07 11:36",
+    "artistName": "Thelonious Monk",
+    "trackName": "Ruby, My Dear",
+    "msPlayed": 122205
+  },
+  {
+    "endTime": "2020-12-22 00:34",
+    "artistName": "John Coltrane",
+    "trackName": "Naima",
+    "msPlayed": 243471
+  },
+  {
+    "endTime": "2020-11-06 08:43",
+    "artistName": "Miles Davis",
+    "trackName": "Blue in Green",
+    "msPlayed": 240087
+  },
+  {
+    "endTime": "2020-11-10 22:24",
+    "artistName": "Thelonious Monk",
+    "trackName": "Round Midnight",
+    "msPlayed": 287955
+  },
+  {
+    "endTime": "2020-11-17 04:12",
+    "artistName": "Miles Davis",
+    "trackName": "So What",
+    "msPlayed": 130238
+  },
+  {
+    "endTime": "2020-11-28 13:19",
+    "artistName": "Charlie Parker",
+    "trackName": "Yardbird Suite",
+    "msPlayed": 134012
+  },
+  {
+    "endTime": "2020-12-13 05:46",
+    "artistName": "Miles Davis",
+    "trackName": "Blue in Green",
+    "msPlayed": 334077
+  },
+  {
+    "endTime": "2020-11-07 15:36",
+    "artistName": "Bill Evans",
+    "trackName": "Peace Piece",
+    "msPlayed": 332308
+  },
+  {
+    "endTime": "2020-12-14 08:40",
+    "artistName": "John Coltrane",
+    "trackName": "Naima",
+    "msPlayed": 276002
+  },
+  {
+    "endTime": "2020-11-27 16:29",
+    "artistName": "Miles Davis",
+    "trackName": "Flamenco Sketches",
+    "msPlayed": 257942
+  },
+  {
+    "endTime": "2020-12-22 13:58",
+    "artistName": "Bill Evans",
+    "trackName": "My Foolish Heart",
+    "msPlayed": 178516
+  },
+  {
+    "endTime": "2020-11-11 06:14",
+    "artistName": "Bill Evans",
+    "trackName": "My Foolish Heart",
+    "msPlayed": 336047
+  },
+  {
+    "endTime": "2020-12-31 20:21",
+    "artistName": "Miles Davis",
+    "trackName": "Flamenco Sketches",
+    "msPlayed": 284469
+  },
+  {
+    "endTime": "2020-12-04 19:26",
+    "artistName": "John Coltrane",
+    "trackName": "Giant Steps",
+    "msPlayed": 109199
+  },
+  {
+    "endTime": "2020-11-07 17:57",
+    "artistName": "Thelonious Monk",
+    "trackName": "Round Midnight",
+    "msPlayed": 261496
+  },
+  {
+    "endTime": "2020-12-10 05:01",
+    "artistName": "Thelonious Monk",
+    "trackName": "Round Midnight",
+    "msPlayed": 222900
+  },
+  {
+    "endTime": "2020-11-05 04:44",
+    "artistName": "Bill Evans",
+    "trackName": "Peace Piece",
+    "msPlayed": 115632
+  },
+  {
+    "endTime": "2020-12-20 17:24",
+    "artistName": "Thelonious Monk",
+    "trackName": "Round Midnight",
+    "msPlayed": 123660
+  },
+  {
+    "endTime": "2020-11-09 02:07",
+    "artistName": "Charlie Parker",
+    "trackName": "Scrapple from the Apple",
+    "msPlayed": 75225
+  },
+  {
+    "endTime": "2020-12-28 02:14",
+    "artistName": "Charlie Parker",
+    "trackName": "Donna Lee",
+    "msPlayed": 333986
+  },
+  {
+    "endTime": "2020-11-05 18:12",
+    "artistName": "Charlie Parker",
+    "trackName": "Yardbird Suite",
+    "msPlayed": 202846
+  },
+  {
+    "endTime": "2020-11-21 02:27",
+    "artistName": "John Coltrane",
+    "trackName": "A Love Supreme",
+    "msPlayed": 126459
+  },
+  {
+    "endTime": "2020-12-27 09:09",
+    "artistName": "John Coltrane",
+    "trackName": "Blue Train",
+    "msPlayed": 204125
+  },
+  {
+    "endTime": "2020-11-29 06:47",
+    "artistName": "John Coltrane",
+    "trackName": "Naima",
+    "msPlayed": 301953
+  },
+  {
+    "endTime": "2020-12-20 08:00",
+    "artistName": "Bill Evans",
+    "trackName": "Waltz for Debby",
+    "msPlayed": 76823
+  },
+  {
+    "endTime": "2020-12-08 00:27",
+    "artistName": "Miles Davis",
+    "trackName": "Freddie Freeloader",
+    "msPlayed": 223903
+  },
+  {
+    "endTime": "2020-12-15 18:36",
+    "artistName": "John Coltrane",
+    "trackName": "Naima",
+    "msPlayed": 109688
+  },
+  {
+    "endTime": "2020-12-10 04:12",
+    "artistName": "John Coltrane",
+    "trackName": "Giant Steps",
+    "msPlayed": 126646
+  },
+  {
+    "endTime": "2020-12-27 02:06",
+    "artistName": "John Coltrane",
+    "trackName": "A Love Supreme",
+    "msPlayed": 69942
+  },
+  {
+    "endTime": "2020-12-14 15:29",
+    "artistName": "John Coltrane",
+    "trackName": "Naima",
+    "msPlayed": 266985
+  },
+  {
+    "endTime": "2020-12-20 21:40",
+    "artistName": "John Coltrane",
+    "trackName": "Naima",
+    "msPlayed": 131314
+  },
+  {
+    "endTime": "2020-12-20 01:17",
+    "artistName": "John Coltrane",
+    "trackName": "My Favorite Things",
+    "msPlayed": 84375
+  },
+  {
+    "endTime": "2020-11-08 18:14",
+    "artistName": "Bill Evans",
+    "trackName": "Peace Piece",
+    "msPlayed": 342281
+  },
+  {
+    "endTime": "2020-11-22 20:45",
+    "artistName": "Miles Davis",
+    "trackName": "So What",
+    "msPlayed": 149953
+  },
+  {
+    "endTime": "2020-11-05 09:08",
+    "artistName": "Bill Evans",
+    "trackName": "Waltz for Debby",
+    "msPlayed": 231501
+  },
+  {
+    "endTime": "2020-11-29 09:15",
+    "artistName": "Bill Evans",
+    "trackName": "Someday My Prince Will Come",
+    "msPlayed": 336146
+  },
+  {
+    "endTime": "2020-12-07 13:52",
+    "artistName": "Miles Davis",
+    "trackName": "Freddie Freeloader",
+    "msPlayed": 399552
+  },
+  {
+    "endTime": "2020-11-16 05:30",
+    "artistName": "John Coltrane",
+    "trackName": "Giant Steps",
+    "msPlayed": 215429
+  },
+  {
+    "endTime": "2020-12-31 20:54",
+    "artistName": "John Coltrane",
+    "trackName": "Naima",
+    "msPlayed": 164424
+  },
+  {
+    "endTime": "2020-11-03 08:28",
+    "artistName": "Thelonious Monk",
+    "trackName": "Blue Monk",
+    "msPlayed": 180623
+  },
+  {
+    "endTime": "2020-12-08 11:50",
+    "artistName": "John Coltrane",
+    "trackName": "Giant Steps",
+    "msPlayed": 365735
+  },
+  {
+    "endTime": "2020-11-16 23:02",
+    "artistName": "Thelonious Monk",
+    "trackName": "Ruby, My Dear",
+    "msPlayed": 292806
+  },
+  {
+    "endTime": "2020-11-13 00:29",
+    "artistName": "John Coltrane",
+    "trackName": "Blue Train",
+    "msPlayed": 260446
+  }
+]
