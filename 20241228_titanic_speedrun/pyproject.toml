@@ -1,0 +1,15 @@
+[project]
+name = "20241228-titanic-speedrun"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "bs4>=0.0.2",
+    "jupyter>=1.1.1",
+    "levenshtein>=0.26.1",
+    "lxml>=5.3.0",
+    "pandas>=2.2.3",
+    "pyarrow>=18.1.0",
+    "requests>=2.32.3",
+]
