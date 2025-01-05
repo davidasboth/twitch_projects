@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 20210307_jazz/wjazzd.db
+20250105_when_is_bins/data/geojson/

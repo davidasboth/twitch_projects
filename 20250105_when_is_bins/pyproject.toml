@@ -1,0 +1,14 @@
+[project]
+name = "20250105-when-is-bins"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "bs4>=0.0.2",
+    "folium>=0.19.3",
+    "ipykernel>=6.29.5",
+    "pandas>=2.2.3",
+    "requests>=2.32.3",
+    "tqdm>=4.67.1",
+]

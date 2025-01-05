@@ -1,0 +1,14 @@
+geojson_path,bin_day_Friday,bin_day_Monday,bin_day_Thursday,bin_day_Tuesday,bin_day_Wednesday,bin_days,sector
+./data/geojson/sectors/HP18/HP18 9.geojson,False,False,False,False,True,1,HP18 9
+./data/geojson/sectors/MK18/MK18 4.geojson,False,False,False,True,False,1,MK18 4
+./data/geojson/sectors/NN13/NN13 5.geojson,False,False,False,True,False,1,NN13 5
+./data/geojson/sectors/OX15/OX15 0.geojson,False,False,True,True,False,2,OX15 0
+./data/geojson/sectors/OX15/OX15 4.geojson,False,True,True,True,True,4,OX15 4
+./data/geojson/sectors/OX15/OX15 5.geojson,False,False,True,True,True,3,OX15 5
+./data/geojson/sectors/OX15/OX15 6.geojson,True,False,False,True,False,2,OX15 6
+./data/geojson/sectors/OX16/OX16 0.geojson,True,True,True,True,True,5,OX16 0
+./data/geojson/sectors/OX16/OX16 1.geojson,True,False,True,True,True,4,OX16 1
+./data/geojson/sectors/OX16/OX16 2.geojson,True,False,False,True,True,3,OX16 2
+./data/geojson/sectors/OX16/OX16 3.geojson,True,False,True,True,True,4,OX16 3
+./data/geojson/sectors/OX16/OX16 4.geojson,False,True,False,True,True,3,OX16 4
+./data/geojson/sectors/OX16/OX16 5.geojson,True,True,True,True,True,5,OX16 5
